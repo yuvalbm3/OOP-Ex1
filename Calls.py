@@ -36,6 +36,6 @@ class Calls:
 
 
 if __name__ == '__main__':
-    csvFile = "/Users/User/PycharmProjects/pythonProject1/Ex1_input/Ex1_calls/Calls_a.csv"
-    call = Calls.loadFromCSV(csvFile)
-    print(call)
+#     csvFile = "/Users/User/PycharmProjects/pythonProject1/Ex1_input/Ex1_calls/Calls_a.csv"
+#     call = Calls.loadFromCSV(csvFile)
+#     print(call)
